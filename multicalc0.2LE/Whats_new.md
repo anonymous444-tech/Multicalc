@@ -1,6 +1,6 @@
 🆕 What’s New in Multicalc LE v0.2
 
-Released: [Add your release date here]
+Released: 4/8/25
 
 
 ---
@@ -63,9 +63,3 @@ Raspberry Pi (Lite OS)
 Low-spec machines
 
 Minimalist Linux setups like Alpine
-
-
-
----
-
-Let me know if you want a changelog-style version or want to include screenshots/terminal shots in the GitHub release.
