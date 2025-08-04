@@ -22,7 +22,7 @@
 - 📊 **Percentage Calculation**  
   - e.g., "What is 20% of 80?"
 
-- 🎨 **Color-coded results (Yellow!)**  
+- 🎨 **Color-coded results (Green!)**  
   - Because why not make math more fun?
 
 - 🖥️ **No dependencies**  
@@ -33,4 +33,5 @@
 ## 🔧 How to Use
 
 ```bash
-#sudo dpkg -i multicalcLE-deb.deb
+sudo dpkg -i multicalcLE-deb.deb
+#if permission problem then run chmod +x /usr/local/bin/multicalc
